@@ -2,7 +2,7 @@
 
 This project focuses on automated classification of cervical cells from pap-smear images using deep learning, specifically a ResNet-50 convolutional neural network. The system aims to assist pathologists in early detection of cervical cancer by classifying cervical cells into five categories based on their morphology.
 
-##Published Work:  
+#Published Work:  
 ([https://ieeexplore.ieee.org/document/10425807]([url](https://ieeexplore.ieee.org/document/10425807)))
 
 ##Project Overview
